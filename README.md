@@ -1,6 +1,9 @@
-### Hi there 👋
+![apdevops](https://github.com/adinpilavdzija/adinpilavdzija/assets/65655945/edb63a8c-d5ca-40a2-9b24-de5ca95a513e)
 
 <!--
+
+### Hi there 👋
+
 **adinpilavdzija/adinpilavdzija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
