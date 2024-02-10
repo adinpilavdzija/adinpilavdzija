@@ -1,5 +1,12 @@
 ![apdevops](https://github.com/adinpilavdzija/adinpilavdzija/assets/65655945/edb63a8c-d5ca-40a2-9b24-de5ca95a513e)
 
+<p align="center">
+  <a href="https://www.credly.com/badges/5499d9b4-2348-4556-a317-7ed226aaed7f/public_url">
+    <img width=150 name="SAA-C03" src="https://github.com/adinpilavdzija/adinpilavdzija/assets/65655945/5638b284-86ec-4b0e-aa7e-e00a85b16c7b" alt="SAA-C03">
+  </a>
+</p>
+
+
 <!--
 
 ### Hi there 👋
